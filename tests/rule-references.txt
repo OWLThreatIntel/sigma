@@ -3462,3 +3462,13 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provid
 https://community.f5.com/t5/technical-forum/running-bash-commands-via-rest-api/td-p/272516
 https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification
 https://github.com/AliBrTab/CVE-2023-46747-POC/tree/main
+https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/yellow-liderc-ships-its-scripts-delivers-imaploader-malware.html
+https://github.com/fortra/impacket/blob/33058eb2fde6976ea62e04bc7d6b629d64d44712/examples/smbexec.py#L286-L296
+https://posts.specterops.io/the-tale-of-settingcontent-ms-files-f1ea253e4d39
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a
+https://www.virustotal.com/gui/file/d72af640b71b8e3eca3eba660dd7c7f029ff8852bcacaa379e7b6c57cf4d9b44
+https://www.sans.org/cyber-security-summit/archives
+https://confluence.atlassian.com/security/cve-2023-22518-improper-authorization-vulnerability-in-confluence-data-center-and-server-1311473907.html
+https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftauthorization
+https://us-cert.cisa.gov/ncas/alerts/aa21-259a
+https://f5-sdk.readthedocs.io/en/latest/apidoc/f5.bigip.tm.util.html#module-f5.bigip.tm.util.bash
