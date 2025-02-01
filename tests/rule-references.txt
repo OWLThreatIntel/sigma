@@ -3462,3 +3462,11 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provid
 https://community.f5.com/t5/technical-forum/running-bash-commands-via-rest-api/td-p/272516
 https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification
 https://github.com/AliBrTab/CVE-2023-46747-POC/tree/main
+https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations
+https://us-cert.cisa.gov/ncas/alerts/aa21-008a
+https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/yellow-liderc-ships-its-scripts-delivers-imaploader-malware.html
+https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd
+https://www.fireeye.com/blog/threat-research/2020/03/apt41-initiates-global-intrusion-campaign-using-multiple-exploits.html
+https://posts.specterops.io/the-tale-of-settingcontent-ms-files-f1ea253e4d39
+https://lolbas-project.github.io/lolbas/OtherMSBinaries/Msxsl/
+https://mp.weixin.qq.com/s/wUoBy7ZiqJL2CUOMC-8Wdg
