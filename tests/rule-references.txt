@@ -3462,3 +3462,13 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provid
 https://community.f5.com/t5/technical-forum/running-bash-commands-via-rest-api/td-p/272516
 https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification
 https://github.com/AliBrTab/CVE-2023-46747-POC/tree/main
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4662
+https://github.com/api0cradle/LOLBAS/blob/d148d278f5f205ce67cfaf49afdfb68071c7252a/OSScripts/pester.md
+https://github.com/ForceFledgling/CVE-2023-22518
+https://github.com/fortra/impacket/blob/edef71f17bc1240f9f8c957bbda98662951ac3ec/examples/smbexec.py#L60
+https://confluence.atlassian.com/security/cve-2023-22518-improper-authorization-vulnerability-in-confluence-data-center-and-server-1311473907.html
+https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a
+https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations
+https://f5-sdk.readthedocs.io/en/latest/apidoc/f5.bigip.tm.util.html#module-f5.bigip.tm.util.bash
+https://doublepulsar.com/kaseya-supply-chain-attack-delivers-mass-ransomware-event-to-us-companies-76e4ec6ec64b
