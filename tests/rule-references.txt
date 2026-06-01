@@ -3462,3 +3462,12 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provid
 https://community.f5.com/t5/technical-forum/running-bash-commands-via-rest-api/td-p/272516
 https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification
 https://github.com/AliBrTab/CVE-2023-46747-POC/tree/main
+https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftauthorization
+https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html
+https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf
+https://us-cert.cisa.gov/ncas/alerts/aa21-259a
+https://github.com/fortra/impacket/blob/33058eb2fde6976ea62e04bc7d6b629d64d44712/examples/smbexec.py#L286-L296
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a
+https://community.f5.com/t5/technical-forum/icontrolrest-11-5-execute-bash-command/td-p/203029
+https://linux.die.net/man/1/arecord
+https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations
